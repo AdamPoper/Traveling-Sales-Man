@@ -1,0 +1,2 @@
+D:\Developer\TravelingSalesMan\Debug\TravelingSalesMan.exe
+D:\Developer\TravelingSalesMan\Debug\TravelingSalesMan.pdb

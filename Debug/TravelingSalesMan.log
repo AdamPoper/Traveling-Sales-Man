@@ -1,0 +1,20 @@
+﻿  Main.cpp
+  TravelingSalesMan.cpp
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(53,27): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(71,31): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(92,44): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(92,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(101,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(105,17): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(106,17): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(113,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(127,23): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(132,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
+D:\Developer\TravelingSalesMan\src\TravelingSalesMan.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TravelingSalesMan.vcxproj -> D:\Developer\TravelingSalesMan\Debug\TravelingSalesMan.exe

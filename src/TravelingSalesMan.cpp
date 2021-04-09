@@ -74,7 +74,6 @@ void TravelingSalesMan::run()
             swap(largestI, largestJ);
             reverse(largestI + 1, m_nodeCount);
         }                       
-        //std::cin.get();
         if (m_done)
             createBestGraph();
       
@@ -171,7 +170,7 @@ void TravelingSalesMan::reverse(uint32_t index, uint32_t count)
     }
 }
 
-uint32_t TravelingSalesMan::factorial(uint32_t i)
+uint64_t TravelingSalesMan::factorial(uint64_t i)
 {
     if (i == 1)
         return 1;

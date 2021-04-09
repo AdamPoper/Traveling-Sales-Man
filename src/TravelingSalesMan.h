@@ -68,7 +68,7 @@ private:
 
 	void swap(uint32_t i, uint32_t j);
 	void reverse(uint32_t index, uint32_t count);
-	uint32_t factorial(uint32_t i);
+	uint64_t factorial(uint64_t i);
 
 	void onUpdateUI();
 		
@@ -78,10 +78,10 @@ private:
 	std::vector<Node> m_nodes;
 	std::vector<Node> m_bestOrder;
 	float m_bestDistance = 0.0f;
-	uint32_t m_currentIteration = 1;
+	uint64_t m_currentIteration = 1;
 	Graph m_graph;
-	uint32_t m_nodeCount = 10;
-	uint32_t m_numPermutations = 0;
+	uint32_t m_nodeCount = 12;
+	uint64_t m_numPermutations = 0;
 
 	sf::Text m_progressText;
 	sf::Text m_progressValueText;
